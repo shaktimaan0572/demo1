@@ -41,13 +41,13 @@
 	    <artifactId>jstl</artifactId>
 	    <version>1.2</version>
 	</dependency>
-    
-    
+      
     
   </dependencies>
   <build>
     <finalName>Foosball</finalName>
-	<plugins>
+
+    <plugins>
         <plugin>
             <groupId>org.apache.maven.plugins</groupId>
             <artifactId>maven-dependency-plugin</artifactId>
@@ -70,6 +70,6 @@
             </executions>
         </plugin>
     </plugins>
-	  
+	
   </build>
 </project>
