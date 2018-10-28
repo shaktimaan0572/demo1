@@ -12,7 +12,6 @@ import com.vivek.model.SignUp;
 import com.vivek.service.SignUpService;
 
 @Controller
-
 public class SignUpController {
 	
 	@Autowired
