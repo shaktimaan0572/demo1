@@ -8,8 +8,16 @@
 <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css" integrity="sha384-Gn5384xqQ1aoWXA+058RXPxPg6fy4IWvTNh0E263XmFcJlSAwiGgFAW/dAiS6JXm" crossorigin="anonymous">
 </head>
 <body>
-<form action="login"><button type="submit"> Go To Home Page</button></form>
-<h1 style="text-align:center; margin-left:-30px; ">Foosball LeaderBoard</h1>
+<br>
+<form action="login">
+<button type="submit" class="btn btn-dark"  style="float:left;margin-top: 15px;margin-left: 75px;margin-right: -200px;">
+Go To Home Page
+</button></form>
+<h1 style="text-align:center; margin-left:-42px; ">Foosball LeaderBoard</h1>
+<form action="leaderBoard"><button type="submit" class="btn btn-dark" style="float: right;margin-top: -36px;margin-bottom:10px;margin-right: 90px;">
+Refresh LeaderBoard
+</button></form>
+
 <table class="table table-striped table-dark" style = "width: 1200px; margin-left: 75px;">
   <thead>
   	
