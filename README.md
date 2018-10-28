@@ -22,4 +22,3 @@
   3.Email validation and Confirmation code is not written.
   
   4.Password recovery code in not written.
-------------------------------------------------------------------------------------------------------------------------------------------
